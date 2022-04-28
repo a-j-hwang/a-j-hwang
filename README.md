@@ -5,7 +5,6 @@
 - as a junior in computer science path, can (of course) do some Python, Java, C, C++ too.
 - 💞️ I’m looking to collaborate on anything that requires front end programming and some sense of design. I'm very comfortable using image editing softwares like photoshop / indesign / figma.
 - 📫 How to reach me : send me an email via <u>alicia.jimin.h@gmail.com</u>
--
 <!---
 a-j-hwang/a-j-hwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
