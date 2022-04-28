@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-j-hwang, Alicia Hwang. A current junior in computer science major / Digital desgin minor in NYU.
 - 👀 I’m interested in web design, application design, UI/UX, fron end engineering ... and virtually anything related to HCI.
-- 🌱 I’m currently learning React.js, RWBY, Kotlin. 
+- 🌱 I’m currently learning React.js, Ruby on Rails, Kotlin. 
 - HTML, CSS and js is my first language but I consider myself as a lifetime learner.
 - as a junior in computer science path, can (of course) do some Python, Java, C, C++ too.
 - 💞️ I’m looking to collaborate on anything that requires front end programming and some sense of design. I'm very comfortable using image editing softwares like photoshop / indesign / figma.
